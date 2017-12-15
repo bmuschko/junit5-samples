@@ -1,0 +1,1 @@
+= JUnit 5 samples image:https://travis-ci.org/bmuschko/junit5-samples.svg?branch=master["Build Status", link="https://travis-ci.org/bmuschko/junit5-samples"]
