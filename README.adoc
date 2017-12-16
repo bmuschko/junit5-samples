@@ -5,6 +5,7 @@ A collection of sample test cases demonstrating JUnit 5's feature set. The execu
 * General use
 * Custom display names
 * Disabled tests
+* Assumptions
 * Before/After hooks
 * Tagging
 * Repeated tests
