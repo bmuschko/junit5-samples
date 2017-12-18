@@ -7,9 +7,15 @@ A collection of sample test cases demonstrating JUnit 5's feature set. The execu
 * Disabled tests
 * Assumptions
 * Before/After hooks
+* Nested tests
 * Tagging
 * Repeated tests
 * Parameterized tests
+* Dynamic tests
+* Test interface declaration and usage
+* Dependency injection
+** `TestInfo` method injection
+** `TestReporter` method injection
 * Extensions
 ** Reacting to test lifecycle events
 ** Injecting Mocks created by Mockito
