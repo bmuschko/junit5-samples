@@ -2,21 +2,21 @@
 
 A collection of sample test cases demonstrating JUnit 5's feature set. The execution of tests is driven by Gradle.
 
-* General use
-* Custom display names
-* Disabled tests
-* Assumptions
-* Before/After hooks
-* Nested tests
-* Tagging
-* Repeated tests
-* Parameterized tests
-* Dynamic tests
-* Test interface declaration and usage
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/SimpleTest.java[General use]
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/DescriptiveTest.java[Custom display names]
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/PartiallyDisabledTest.java[Disabled tests]
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/AssumptionTest.java[Assumptions]
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/BeforeAfterTest.java[Before/After hooks]
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/NestedTest.java[Nested tests]
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/TaggedTest.java[Tagging]
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/RepetitionTest.java[Repeated tests]
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/ParameterTest.java[Parameterized tests]
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/DynamicallyGeneratedTest.java[Dynamic tests]
+* link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/extension/tmp/TestInterfaceTest.java[Test interface declaration and usage]
 * Dependency injection
-** `TestInfo` method injection
-** `TestReporter` method injection
+** link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/injection/TestInfoInjectionTest.java[`TestInfo` method injection]
+** link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/injection/TestReporterInjectionTest.java[`TestReporter` method injection]
 * Extensions
-** Reacting to test lifecycle events
-** Injecting Mocks created by Mockito
-** Creating a temporary folder
+** link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/extension/events/LoggingTest.java[Reacting to test lifecycle events]
+** link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/extension/mockito/MockitoTest.java[Injecting Mocks created by Mockito]
+** link:https://github.com/bmuschko/junit5-samples/blob/master/src/test/java/com/bmuschko/junit5/samples/extension/tmp/TemporaryFolderTest.java[Creating a temporary folder]
